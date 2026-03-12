@@ -73,7 +73,5 @@ Additionally, I learned about common issues that may occur during data migration
 * Real-Time Data Integration
 * Migration Challenges
 * Migration Order in Salesforce
-* Datamatter Platform Modules
-
 ---
 
